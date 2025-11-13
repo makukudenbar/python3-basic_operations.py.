@@ -1,0 +1,5 @@
+intresst=principal*rate*time
+principal=$1000
+rate0.05
+time 3
+the simple intrest is :150.0
